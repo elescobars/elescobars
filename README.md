@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Alejandro :wave::smile:
+Software Engineering student:books: from Mexico.
 
+- 🌱 I’m currently learning DevOps, Git, Java, JavaScript and Python.
+- 👯 I’m looking to collaborate on software development projects in the future!
 <!--
 **elescobars/elescobars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
